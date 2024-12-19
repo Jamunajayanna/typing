@@ -1,0 +1,4 @@
+_id,isPb,wpm,acc,rawWpm,consistency,charStats,mode,mode2,quoteLength,restartCount,testDuration,afkDuration,incompleteTestSeconds,punctuation,numbers,language,funbox,difficulty,lazyMode,blindMode,bailedOut,tags,timestamp
+676323641df1c69f156641c9,true,29.6,98.08,31.2,66.18,148;1;0;1,time,60,-1,13,60.01,2,1219.24,false,false,english,none,normal,false,false,false,,1734550372000
+6762eed61df1c69f1562d5a2,true,27.99,97.4,30.79,62.8,140;2;0;0,time,60,-1,0,60.02,0,0,false,false,english,none,normal,false,false,false,,1734536918000
+6762ee8a1df1c69f1562d06f,true,23.6,94.41,28.6,52.18,118;3;1;0,time,60,-1,0,60,5,0,false,false,english,none,normal,false,false,false,,1734536842000
